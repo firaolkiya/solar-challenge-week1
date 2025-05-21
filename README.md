@@ -84,3 +84,11 @@ This project is a Streamlit-based interactive dashboard for analyzing solar radi
 ## Streamlit Interactive Dashboard Screenshoot
 
 ![Image](https://github.com/user-attachments/assets/784f8e24-083a-4d7c-aaf5-3d3a007cdbc5)
+
+![Image](https://github.com/user-attachments/assets/dc14056c-0590-40fd-954c-2a5b2d2f4a09)
+
+![Image](https://github.com/user-attachments/assets/ff9b9af3-2318-4d59-a295-b76d1d95e412)
+
+![Image](https://github.com/user-attachments/assets/09ff267f-d154-4325-96e7-769a002a5b9e)
+
+![Image](https://github.com/user-attachments/assets/c793efd6-f39a-40ec-a5b3-1049511138d2)
