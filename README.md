@@ -4,7 +4,8 @@ This repository contains the code and documentation for analyzing and cleaning s
 ## 🚀 Project Overview
 This project involves the following key steps:
 
-## Exploratory Data Analysis (EDA): Performing descriptive statistics, visualizing data patterns, and identifying anomalies.
+## Exploratory Data Analysis (EDA):
+Performing descriptive statistics, visualizing data patterns, and identifying anomalies.
 Data Cleaning: Handling negative values, missing values, and outliers to improve data quality.
 Visualization and Insights: Creating informative visualizations (scatter plots, histograms, bubble charts, wind roses) to explore relationships and gain insights.
 Correlation Analysis: Quantifying relationships between variables using correlation matrices and pair plots.
