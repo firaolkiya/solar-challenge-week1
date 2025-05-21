@@ -80,3 +80,7 @@ This project is a Streamlit-based interactive dashboard for analyzing solar radi
 🌬️ Wind and Solar Speed Analysis: Understand the distribution of wind speed and direction, and analyze solar speed over time. 
 
 🚨 Outlier Detection: Identify potential outliers in the data.
+
+## Streamlit Interactive Dashboard Screenshoot
+
+https://github.com/user-attachments/assets/784f8e24-083a-4d7c-aaf5-3d3a007cdbc5
