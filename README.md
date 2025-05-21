@@ -1,4 +1,4 @@
-☀️ Solar Radiation Data Analysis and Cleaning 🌦️
+##☀️ Solar Radiation Data Analysis and Cleaning 🌦️
 This repository contains the code and documentation for analyzing and cleaning solar radiation datasets from Benin, Sierra Leone, and Togo. The project aims to enhance data quality, explore relationships between variables, and provide insights for solar energy applications.
 
 🚀 Project Overview
@@ -72,6 +72,10 @@ This project is a Streamlit-based interactive dashboard for analyzing solar radi
 
 ✨ Features 
 
-🔥 Correlation Heatmap: Visualize the correlation between different variables in the dataset. 📈 Time-series Analysis: Analyze trends over time for selected variables. 🌬️ Wind and Solar Speed Analysis: Understand the distribution of wind speed and direction, and analyze solar speed over time. 
+🔥 Correlation Heatmap: Visualize the correlation between different variables in the dataset. 
+
+📈 Time-series Analysis: Analyze trends over time for selected variables.
+
+🌬️ Wind and Solar Speed Analysis: Understand the distribution of wind speed and direction, and analyze solar speed over time. 
 
 🚨 Outlier Detection: Identify potential outliers in the data.
