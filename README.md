@@ -66,7 +66,12 @@ Troubleshooting:
 If you encounter any issues during installation, make sure you have the correct versions of Python and pip installed.
 If you have problems running the notebook, check that you have selected the correct Python interpreter and that all dependencies are installed correctly.
 For specific errors or questions, please refer to the project documentation or open an issue on GitHub.
+
 🌞 Solar Radiation Data Analysis Dashboard 🌬️
 This project is a Streamlit-based interactive dashboard for analyzing solar radiation data from various regions. It provides multiple visualization options to help you understand and interpret the data effectively.
 
-✨ Features 🔥 Correlation Heatmap: Visualize the correlation between different variables in the dataset. 📈 Time-series Analysis: Analyze trends over time for selected variables. 🌬️ Wind and Solar Speed Analysis: Understand the distribution of wind speed and direction, and analyze solar speed over time. 🚨 Outlier Detection: Identify potential outliers in the data.
+✨ Features 
+
+🔥 Correlation Heatmap: Visualize the correlation between different variables in the dataset. 📈 Time-series Analysis: Analyze trends over time for selected variables. 🌬️ Wind and Solar Speed Analysis: Understand the distribution of wind speed and direction, and analyze solar speed over time. 
+
+🚨 Outlier Detection: Identify potential outliers in the data.
